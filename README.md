@@ -4,4 +4,7 @@ This model was built specifically for a company that needed to transform data fr
 
 Advantage- Setting up of the environment and running the code would take only 2-3 minutes, hence saving the time and effort of selecting, copying and pasting different text snippets as well as taking screenshots and cropping images to be saved in excel.
 
-Diadvantage-Tha task of inserting images was still manual, changes in the code have to be made if PDF used is different.
+Disadvantage-Tha task of inserting images was still manual, changes in the code have to be made if PDF used is different.
+
+
+The PDF used is not attached for the purpose of confidentiality
